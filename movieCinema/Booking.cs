@@ -29,7 +29,18 @@ namespace movieCinema
             return tPrice;
         }
 
-        
+        // This method should be called when a movie is 24 hours before the screen time with the parameter time as false. 
+        // This method should be called when a movie is 12 hours before the screen time with the parameter time as true. 
+        public void checkIfPaid(Boolean time)
+        {
+            if (!this.state.Equals(new PaidState()) && !time)
+            {
+                Console.WriteLine("Moet een bericht gestuurd worden");
+            } else if (!this.state.Equals(new PaidState()) && time)
+            {
+                this.onCancelled();
+            }
+        }
 
         private void setState(IState state)
         {

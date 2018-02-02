@@ -21,9 +21,12 @@ namespace movieCinema
             List<MovieTicket> l = new List<MovieTicket>() { ticket, ticket1, ticket2, ticket3, ticket4 };
             Booking book = new Booking(l);
 
+            
+            book.onReserved();
             Console.WriteLine((book.getState().ToString() == "movieCinema.ReservedState"));
-            book.isPaid();
+            book.checkIfPaid(true);
             Console.WriteLine(book.getState());
+            int i = 4;
         }
     }
 }

@@ -43,10 +43,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Booking.cs" />
+    <Compile Include="CancelState.cs" />
     <Compile Include="CinemaRoom.cs" />
+    <Compile Include="CreatedState.cs" />
     <Compile Include="Customers.cs" />
     <Compile Include="IState.cs" />
     <Compile Include="ITicket.cs" />
+    <Compile Include="messages\email.cs" />
+    <Compile Include="messages\IMessage.cs" />
+    <Compile Include="messages\sms.cs" />
+    <Compile Include="messages\whatsapp.cs" />
     <Compile Include="Movie.cs" />
     <Compile Include="MovieTicket.cs" />
     <Compile Include="PaidState.cs" />
