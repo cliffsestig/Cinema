@@ -5636,7 +5636,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\larsh\\.nuget\\packages\\": {},
+    "C:\\Users\\Cliff Sestig\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -5645,17 +5645,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\larsh\\Downloads\\movieCinema2\\movieCinema\\UnitTestMovieCinema\\UnitTestMovieCinema.csproj",
+      "projectUniqueName": "C:\\Users\\Cliff Sestig\\Documents\\Visual Studio 2017\\Projects\\movieCinema\\UnitTestMovieCinema\\UnitTestMovieCinema.csproj",
       "projectName": "UnitTestMovieCinema",
-      "projectPath": "C:\\Users\\larsh\\Downloads\\movieCinema2\\movieCinema\\UnitTestMovieCinema\\UnitTestMovieCinema.csproj",
-      "packagesPath": "C:\\Users\\larsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\larsh\\Downloads\\movieCinema2\\movieCinema\\UnitTestMovieCinema\\obj\\",
+      "projectPath": "C:\\Users\\Cliff Sestig\\Documents\\Visual Studio 2017\\Projects\\movieCinema\\UnitTestMovieCinema\\UnitTestMovieCinema.csproj",
+      "packagesPath": "C:\\Users\\Cliff Sestig\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cliff Sestig\\Documents\\Visual Studio 2017\\Projects\\movieCinema\\UnitTestMovieCinema\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\larsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Cliff Sestig\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5668,8 +5668,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\larsh\\Downloads\\movieCinema2\\movieCinema\\movieCinema\\movieCinema.csproj": {
-              "projectPath": "C:\\Users\\larsh\\Downloads\\movieCinema2\\movieCinema\\movieCinema\\movieCinema.csproj"
+            "C:\\Users\\Cliff Sestig\\Documents\\Visual Studio 2017\\Projects\\movieCinema\\movieCinema\\movieCinema.csproj": {
+              "projectPath": "C:\\Users\\Cliff Sestig\\Documents\\Visual Studio 2017\\Projects\\movieCinema\\movieCinema\\movieCinema.csproj"
             }
           }
         }
@@ -5683,22 +5683,22 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "MSTest.TestAdapter": {
-            "target": "Package",
-            "version": "[1.1.18, )"
-          },
           "MSTest.TestFramework": {
             "target": "Package",
-            "version": "[1.1.18, )"
+            "version": "1.1.18"
           },
-          "Microsoft.NET.Test.Sdk": {
+          "MSTest.TestAdapter": {
             "target": "Package",
-            "version": "[15.3.0-preview-20170628-02, )"
+            "version": "1.1.18"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0.0",
             "autoReferenced": true
+          },
+          "Microsoft.NET.Test.Sdk": {
+            "target": "Package",
+            "version": "15.3.0-preview-20170628-02"
           }
         },
         "imports": [

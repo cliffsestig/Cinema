@@ -21,9 +21,8 @@ namespace UnitTestMovieCinema
 
             List<MovieTicket> l = new List<MovieTicket>() { ticket, ticket1, ticket2, ticket3, ticket4 };
             Booking book = new Booking(l);
-
+            book.onReserved();
             Assert.AreEqual("movieCinema.ReservedState", book.getState().ToString());
-            book.isPaid();
 
         }
 
@@ -40,7 +39,8 @@ namespace UnitTestMovieCinema
 
             List<MovieTicket> l = new List<MovieTicket>() { ticket, ticket1, ticket2, ticket3, ticket4 };
             Booking book = new Booking(l);
-            book.isPaid();
+            book.onReserved();
+            book.onPaid();
             Assert.AreEqual("movieCinema.PaidState", book.getState().ToString());
 
 
@@ -58,7 +58,8 @@ namespace UnitTestMovieCinema
 
             List<MovieTicket> l = new List<MovieTicket>() { ticket, ticket1, ticket2, ticket3, ticket4 };
             Booking book = new Booking(l);
-            book.isPaid();
+            book.onReserved();
+            book.onPaid();
             Assert.AreEqual(50, book.getTotalPrice());
 
 

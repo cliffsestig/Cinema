@@ -8,14 +8,24 @@ namespace movieCinema
 {
     class ReservedState : IState
     {
-        Booking booking;
-        public ReservedState(Booking booking)
+        public IState cancelled()
         {
-            this.booking = booking;
+            return new CancelState();
         }
-        public void update()
+
+        public IState created()
         {
-            booking.setState(booking.getPaidState());
+            throw new NotImplementedException();
+        }
+
+        public IState paid()
+        {
+            return new PaidState();
+        }
+
+        public IState reserved()
+        {
+            throw new NotImplementedException();
         }
     }
 }

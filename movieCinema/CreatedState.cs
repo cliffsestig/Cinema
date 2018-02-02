@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace movieCinema
 {
-    class PaidState : IState
+    class CreatedState : IState
     {
         public IState cancelled()
         {
@@ -25,7 +25,7 @@ namespace movieCinema
 
         public IState reserved()
         {
-            throw new NotImplementedException();
+            return new ReservedState();
         }
     }
 }

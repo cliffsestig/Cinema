@@ -32,3 +32,20 @@ C:\Users\larsh\Downloads\movieCinema2\movieCinema\UnitTestMovieCinema\obj\Debug\
 C:\Users\larsh\Downloads\movieCinema2\movieCinema\UnitTestMovieCinema\obj\Debug\netcoreapp2.0\UnitTestMovieCinema.AssemblyInfo.cs
 C:\Users\larsh\Downloads\movieCinema2\movieCinema\UnitTestMovieCinema\obj\Debug\netcoreapp2.0\UnitTestMovieCinema.dll
 C:\Users\larsh\Downloads\movieCinema2\movieCinema\UnitTestMovieCinema\obj\Debug\netcoreapp2.0\UnitTestMovieCinema.pdb
+C:\Users\Cliff Sestig\Documents\Visual Studio 2017\Projects\movieCinema\UnitTestMovieCinema\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Cliff Sestig\Documents\Visual Studio 2017\Projects\movieCinema\UnitTestMovieCinema\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Cliff Sestig\Documents\Visual Studio 2017\Projects\movieCinema\UnitTestMovieCinema\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Cliff Sestig\Documents\Visual Studio 2017\Projects\movieCinema\UnitTestMovieCinema\bin\Debug\netcoreapp2.0\UnitTestMovieCinema.deps.json
+C:\Users\Cliff Sestig\Documents\Visual Studio 2017\Projects\movieCinema\UnitTestMovieCinema\bin\Debug\netcoreapp2.0\UnitTestMovieCinema.runtimeconfig.json
+C:\Users\Cliff Sestig\Documents\Visual Studio 2017\Projects\movieCinema\UnitTestMovieCinema\bin\Debug\netcoreapp2.0\UnitTestMovieCinema.runtimeconfig.dev.json
+C:\Users\Cliff Sestig\Documents\Visual Studio 2017\Projects\movieCinema\UnitTestMovieCinema\bin\Debug\netcoreapp2.0\UnitTestMovieCinema.dll
+C:\Users\Cliff Sestig\Documents\Visual Studio 2017\Projects\movieCinema\UnitTestMovieCinema\bin\Debug\netcoreapp2.0\UnitTestMovieCinema.pdb
+C:\Users\Cliff Sestig\Documents\Visual Studio 2017\Projects\movieCinema\UnitTestMovieCinema\bin\Debug\netcoreapp2.0\movieCinema.exe
+C:\Users\Cliff Sestig\Documents\Visual Studio 2017\Projects\movieCinema\UnitTestMovieCinema\bin\Debug\netcoreapp2.0\movieCinema.pdb
+C:\Users\Cliff Sestig\Documents\Visual Studio 2017\Projects\movieCinema\UnitTestMovieCinema\bin\Debug\netcoreapp2.0\movieCinema.exe.config
+C:\Users\Cliff Sestig\Documents\Visual Studio 2017\Projects\movieCinema\UnitTestMovieCinema\obj\Debug\netcoreapp2.0\UnitTestMovieCinema.csprojResolveAssemblyReference.cache
+C:\Users\Cliff Sestig\Documents\Visual Studio 2017\Projects\movieCinema\UnitTestMovieCinema\obj\Debug\netcoreapp2.0\UnitTestMovieCinema.csproj.CoreCompileInputs.cache
+C:\Users\Cliff Sestig\Documents\Visual Studio 2017\Projects\movieCinema\UnitTestMovieCinema\obj\Debug\netcoreapp2.0\UnitTestMovieCinema.AssemblyInfoInputs.cache
+C:\Users\Cliff Sestig\Documents\Visual Studio 2017\Projects\movieCinema\UnitTestMovieCinema\obj\Debug\netcoreapp2.0\UnitTestMovieCinema.AssemblyInfo.cs
+C:\Users\Cliff Sestig\Documents\Visual Studio 2017\Projects\movieCinema\UnitTestMovieCinema\obj\Debug\netcoreapp2.0\UnitTestMovieCinema.dll
+C:\Users\Cliff Sestig\Documents\Visual Studio 2017\Projects\movieCinema\UnitTestMovieCinema\obj\Debug\netcoreapp2.0\UnitTestMovieCinema.pdb

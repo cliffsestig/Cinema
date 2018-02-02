@@ -11,18 +11,13 @@ namespace movieCinema
     {
         List<MovieTicket> ticketList;
         decimal totalPrice;
-        public IState reservedState;
-        public IState paidState;
-
         public IState state;
 
         public Booking(List<MovieTicket> ticketList)
         {
-            reservedState = new ReservedState(this);
-            paidState = new PaidState(this);
+            this.state = new CreatedState();
             this.ticketList = ticketList;
             this.totalPrice = calcPrice();
-            this.state = reservedState;
         }
         private decimal calcPrice()
         {
@@ -32,13 +27,6 @@ namespace movieCinema
                 tPrice += ticket.movie.price;
             }
             return tPrice;
-        }
-        public IState getReservedState() {
-            return this.reservedState;
-        }
-        public IState getPaidState()
-        {
-            return this.paidState;
         }
         public void setState(IState state)
         {
@@ -53,8 +41,19 @@ namespace movieCinema
             return this.totalPrice;
         }
 
-        public void isPaid() {
-            this.state.update();
+        public void onReserved() {
+            setState(this.state.reserved());
+        }
+
+        public void onCancelled() {
+            setState(this.state.cancelled());
+        }
+        public void onPaid() {
+            setState(this.state.paid());
+        }
+
+        public void onCreated() {
+            setState(this.state.created());
         }
     }
 

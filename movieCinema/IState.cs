@@ -8,6 +8,9 @@ namespace movieCinema
 {
     public interface IState
     {
-        void update();
+        IState created();
+        IState paid();
+        IState cancelled();
+        IState reserved();
     }
 }
