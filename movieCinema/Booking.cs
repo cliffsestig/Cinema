@@ -28,7 +28,10 @@ namespace movieCinema
             }
             return tPrice;
         }
-        public void setState(IState state)
+
+        
+
+        private void setState(IState state)
         {
             this.state = state;
         }
