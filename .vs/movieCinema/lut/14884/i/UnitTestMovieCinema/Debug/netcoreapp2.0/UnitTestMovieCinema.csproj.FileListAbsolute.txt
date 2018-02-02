@@ -1,0 +1,14 @@
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\b\UnitTestMovieCinema\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\b\UnitTestMovieCinema\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\b\UnitTestMovieCinema\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\b\UnitTestMovieCinema\Debug\netcoreapp2.0\UnitTestMovieCinema.deps.json
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\b\UnitTestMovieCinema\Debug\netcoreapp2.0\UnitTestMovieCinema.runtimeconfig.json
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\b\UnitTestMovieCinema\Debug\netcoreapp2.0\UnitTestMovieCinema.runtimeconfig.dev.json
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\b\UnitTestMovieCinema\Debug\netcoreapp2.0\UnitTestMovieCinema.dll
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\b\UnitTestMovieCinema\Debug\netcoreapp2.0\UnitTestMovieCinema.pdb
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\i\UnitTestMovieCinema\Debug\netcoreapp2.0\UnitTestMovieCinema.csprojResolveAssemblyReference.cache
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\i\UnitTestMovieCinema\Debug\netcoreapp2.0\UnitTestMovieCinema.csproj.CoreCompileInputs.cache
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\i\UnitTestMovieCinema\Debug\netcoreapp2.0\UnitTestMovieCinema.AssemblyInfoInputs.cache
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\i\UnitTestMovieCinema\Debug\netcoreapp2.0\UnitTestMovieCinema.AssemblyInfo.cs
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\i\UnitTestMovieCinema\Debug\netcoreapp2.0\UnitTestMovieCinema.dll
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\i\UnitTestMovieCinema\Debug\netcoreapp2.0\UnitTestMovieCinema.pdb

@@ -1,0 +1,21 @@
+C:\Users\larsh\source\repos\movieCinema\movieCinema\obj\Debug\movieCinema.csprojResolveAssemblyReference.cache
+C:\Users\larsh\source\repos\movieCinema\movieCinema\obj\Debug\movieCinema.csproj.CoreCompileInputs.cache
+C:\Users\larsh\source\repos\movieCinema\movieCinema\bin\Debug\movieCinema.exe.config
+C:\Users\larsh\source\repos\movieCinema\movieCinema\bin\Debug\movieCinema.exe
+C:\Users\larsh\source\repos\movieCinema\movieCinema\bin\Debug\movieCinema.pdb
+C:\Users\larsh\source\repos\movieCinema\movieCinema\obj\Debug\movieCinema.exe
+C:\Users\larsh\source\repos\movieCinema\movieCinema\obj\Debug\movieCinema.pdb
+C:\Users\Cliff Sestig\Desktop\movieCinema\movieCinema\bin\Debug\movieCinema.exe.config
+C:\Users\Cliff Sestig\Desktop\movieCinema\movieCinema\bin\Debug\movieCinema.exe
+C:\Users\Cliff Sestig\Desktop\movieCinema\movieCinema\bin\Debug\movieCinema.pdb
+C:\Users\Cliff Sestig\Desktop\movieCinema\movieCinema\obj\Debug\movieCinema.csprojResolveAssemblyReference.cache
+C:\Users\Cliff Sestig\Desktop\movieCinema\movieCinema\obj\Debug\movieCinema.csproj.CoreCompileInputs.cache
+C:\Users\Cliff Sestig\Desktop\movieCinema\movieCinema\obj\Debug\movieCinema.exe
+C:\Users\Cliff Sestig\Desktop\movieCinema\movieCinema\obj\Debug\movieCinema.pdb
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\movieCinema\bin\Debug\movieCinema.exe.config
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\movieCinema\bin\Debug\movieCinema.exe
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\movieCinema\bin\Debug\movieCinema.pdb
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\movieCinema\obj\Debug\movieCinema.csprojResolveAssemblyReference.cache
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\movieCinema\obj\Debug\movieCinema.csproj.CoreCompileInputs.cache
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\movieCinema\obj\Debug\movieCinema.exe
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\movieCinema\obj\Debug\movieCinema.pdb

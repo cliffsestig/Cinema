@@ -1,0 +1,7 @@
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\b\movieCinema\bin\Debug\movieCinema.exe.config
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\b\movieCinema\bin\Debug\movieCinema.exe
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\b\movieCinema\bin\Debug\movieCinema.pdb
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\i\movieCinema\Debug\movieCinema.csprojResolveAssemblyReference.cache
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\i\movieCinema\Debug\movieCinema.csproj.CoreCompileInputs.cache
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\i\movieCinema\Debug\movieCinema.exe
+C:\Users\larsh\Downloads\movieCinema2\movieCinema\.vs\movieCinema\lut\0\i\movieCinema\Debug\movieCinema.pdb
